@@ -62,7 +62,7 @@ Palette:
 	hex 0d262400	;background 0
         hex 0d262100	;background 1
         hex 0d262a00	;background 2
-        hex 00122200	;background 3
+	hex 0d262400	;background 3
         hex 19293900	;sprite 0
         hex 1a2a3a00	;sprite 1
         hex 1b2b3b00	;sprite 2
