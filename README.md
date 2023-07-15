@@ -6,6 +6,8 @@ NES development! Visit
 [r1kr.blog/read/nestextpasswordrom](https://r1kr.blog/read/nestextpasswordrom)
 to learn more!
 
+This project has moved to Gitea: https://code.hackerbun.dev/TheIndustriousRabbit/nes-password-rom
+
 ## Building
 
 * Install [dasm](https://dasm-assembler.github.io/)
